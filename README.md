@@ -1,9 +1,5 @@
 # Roadmap
 
-Got it ✅. I’ll give you a **complete, module-wise GitLab CI/CD syllabus + roadmap** with **theory + practicals + 3 projects after every module**. I’ll also add **integration modules with other DevOps tools** so you get end-to-end exposure like in real companies.
-
----
-
 # 📘 GitLab CI/CD Roadmap & Syllabus (Module-Wise)
 
 ---
